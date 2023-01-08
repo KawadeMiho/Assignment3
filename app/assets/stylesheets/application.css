@@ -14,28 +14,28 @@
  *= require_self
  */
 
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
- }
+/**{*/
+/*  margin:0;*/
+/*  padding:0;*/
+/*  box-sizing:border-box;*/
+/* }*/
 
-.table{
- display: table;
- width: 100% ;
- margin-bottom: 1rem;
- color:#212529;
- text-indent: initial;
- border-spacing: 2px;
- border-color: grey;
- border-collapse: collapse;
-}
+/*.table{*/
+/* display: table;*/
+/* width: 100% ;*/
+/* margin-bottom: 1rem;*/
+/* color:#212529;*/
+/* text-indent: initial;*/
+/* border-spacing: 2px;*/
+/* border-color: grey;*/
+/* border-collapse: collapse;*/
+/*}*/
 
-h2 {
- display: block;
- font-size: 1.5em;
- margin-bottom: 0.5rem;
- font-weight: 500;
- line-height: 1.2;
-}
+/*h2 {*/
+/* display: block;*/
+/* font-size: 1.5em;*/
+/* margin-bottom: 0.5rem;*/
+/* font-weight: 500;*/
+/* line-height: 1.2;*/
+/**}**/
 
